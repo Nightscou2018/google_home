@@ -11,4 +11,4 @@ npm init # make sure <=2.81.0
 npm prune
 npm shrinkwrap
 
-
+npm install 
